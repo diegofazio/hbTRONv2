@@ -1,0 +1,7 @@
+-lhbtron
+-gui
+-gtnul
+-mt
+..\resource\sample.rc
+-icon=..\resource\sample.ico
+
