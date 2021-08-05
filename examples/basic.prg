@@ -2,7 +2,6 @@
 **  advance.prg -- hbTRON sample
 **
 ** Developed by Diego Fazio(2021)
-/*
 */
 
 FUNCTION Main()
