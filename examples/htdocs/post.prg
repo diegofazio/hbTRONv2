@@ -29,5 +29,3 @@ function Main()
    ENDTEXT
 
 return nil
-
-//NO TOMA EL TEMPLATE
