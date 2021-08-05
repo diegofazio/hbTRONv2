@@ -1,5 +1,5 @@
 /*
-**  advance.prg -- hbTRON sample
+**  basic.prg -- hbTRON sample
 **
 ** Developed by Diego Fazio(2021)
 */
