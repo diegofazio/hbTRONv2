@@ -1,10 +1,10 @@
 /*
-**  advance.prg -- hbWUI WebView2/Cocoa/GTK Harbour Web UI
+**  advance.prg -- hbTRON sample
 **
 ** Developed by Diego Fazio(2021)
 /*
- From a harbour program, it opens a new window showing some url
 */
+
 FUNCTION Main()
 
    // Window tittle
@@ -23,9 +23,7 @@ FUNCTION Main()
       RETURN
    ENDIF
  
-   // Load external url
-
-   // wait till WUI closes
+   // wait till hbTRON closes
    while ( hbT_Run() == 0 )
    enddo
 
