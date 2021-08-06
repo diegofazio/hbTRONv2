@@ -4,7 +4,7 @@ WebServer + Wsocket Server + Harbour Interpreter + Webview2/WebKitGTK/Cocoa = **
 It allows for the development of desktop GUI applications using web technologies:<br>
 it combines the Webview2/WebKitGTK/Cocoa rendering engine, a webserver, and the **Harbour** runtime all in a single .exe file.<br>
 Now you can run your already made harbour WebApp, without touching a singles line, as a Gui desktop app.<br>
-**Multi OS: Chromium/WebKitGTK/Cocoa<br>**
+**Multi OS: Chromium/WebKitGTK/Cocoa<br>** It works with hbWUI core https://github.com/diegofazio/hbwui. Tunneling functions support!!<br>
 Use the same logic for programing in php but without a server and with all the harbour power!<br>
 Scalable, Portable, Limitless.<br>
 # http://www.hbtron.com
