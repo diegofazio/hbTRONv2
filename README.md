@@ -1,4 +1,4 @@
-# hbTRON Ver.2 ( like Electron...but Better!!)
+# hbTRON Ver.2 Beta ( like Electron...but Better!!)
 ### What is hbTRON?
 **hbTRON** = WebServer + Wsocket Server + Harbour Interpreter +  Webview2/WebKitGTK/Cocoa)<br>
 It allows for the development of desktop GUI applications using web technologies.<br>
